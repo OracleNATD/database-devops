@@ -1,0 +1,6 @@
+target/
+*.zip
+nb-configuration.xml
+nbactions.xml
+deployment.json
+deploy.sh
