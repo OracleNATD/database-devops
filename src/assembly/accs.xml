@@ -10,10 +10,6 @@
             <source>manifest.json</source>
             <outputDirectory>/</outputDirectory>
         </file>
-        <file>
-            <source>deployment.json</source>
-            <outputDirectory>/</outputDirectory>
-        </file>
     </files>
     <fileSets>
         <fileSet>
